@@ -1,5 +1,3 @@
-Sure, here are the images with the source link added below each:
-
 ## Output Video
 ![OUTPUT GIF VIDEO](https://github.com/benny-png/YOLO_SEGMENTATION/blob/main/output%20(1).gif)
 
